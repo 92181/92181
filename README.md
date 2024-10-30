@@ -1,6 +1,6 @@
 ## I'm Wolf Schulz
 
-Avid developer and web designer, currently an intern at MonetDB Solutions.
+Avid developer, currently an intern at MonetDB Solutions.
 
 Languages and Tools:
 
