@@ -2,7 +2,7 @@
 
 Avid developer, currently an intern at MonetDB Solutions.
 
-#### Proffesional Experience:
+#### Professional Experience:
 @ 2024 - 2025, Internship at MonetDB Solutions BV.
 <br>@ 2023, Built a website on behalf of the [Watergraafsmeer Scientific Centre Foundation](https://wcw.nl/).
 
