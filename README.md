@@ -1,6 +1,6 @@
 ## I'm Wolf Schulz
 
-Avid developer, currently an intern at MonetDB Solutions.
+Avid developer, currently working at Centrum Wiskunde & Informatica.
 
 #### Professional Experience:
 * 2025, Full-stack development project at [Centrum Wiskunde & Informatica](https://cwi.nl).
