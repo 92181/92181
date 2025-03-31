@@ -7,7 +7,7 @@ Avid developer, currently an intern at MonetDB Solutions.
 * 2024 - 2025, Software development internship at [MonetDB Solutions BV](https://monetdb.com).
 * 2023, Built a new website for the [Watergraafsmeer Scientific Centre Foundation](https://wcw.nl/).
 
-#### Intriguing Private Projects
+#### Intriguing Private Projects:
 * [WmDP](https://github.com/92181/markdown) - Markdown parser, C based and extremely performant single-pass markdown to HTML translator.
 * [Model viewer (3D)](https://github.com/92181/modeler), made using WebGL and capable of performing various tiny edit operations.
 * [Tiny QR](https://github.com/92181/qrcode), small 2.5kb Javascript library to generate QR codes.
