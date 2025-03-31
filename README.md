@@ -10,7 +10,7 @@ Avid developer, currently an intern at MonetDB Solutions.
 #### Intriguing Private Projects
 * [WmDP](https://github.com/92181/markdown) - Markdown parser, C based and extremely performant single-pass markdown to HTML translator.
 * [Model viewer (3D)](https://github.com/92181/modeler), made using WebGL and capable of performing various tiny edit operations.
-* [Tiny QR JS](https://github.com/92181/qrcode), small 2.5kb library to generate QR codes.
+* [Tiny QR](https://github.com/92181/qrcode), small 2.5kb Javascript library to generate QR codes.
 
 #### Languages & Tools:
 
