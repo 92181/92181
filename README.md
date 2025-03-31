@@ -1,6 +1,7 @@
 ## I'm Wolf Schulz
 
-Avid developer, currently working at Centrum Wiskunde & Informatica.
+Avid developer, trying to combine hardware, software and a little bit of 3d modeling.
+
 
 #### Professional Experience:
 * 2025, Full-stack development project at [Centrum Wiskunde & Informatica](https://cwi.nl).
