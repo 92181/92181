@@ -1,6 +1,6 @@
 ## I'm Wolf Schulz
 
-Avid software developer. Combining hardware, software and a little bit of tinkering.
+Avid software developer. Combining hardware, software and a little bit of DIY tinkering.
 
 
 #### Professional Experience:
