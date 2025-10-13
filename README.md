@@ -4,7 +4,7 @@ Avid software developer. Combining hardware, software and a little bit of DIY ti
 
 
 #### Professional Experience:
-* 2025, Full-stack development project at [Centrum Wiskunde & Informatica](https://cwi.nl).
+* 2025, Web Developer at [Centrum Wiskunde & Informatica](https://cwi.nl).
 * 2024 - 2025, Software development internship at [MonetDB Solutions BV](https://monetdb.com).
 * 2023, Built a new website for the [Watergraafsmeer Scientific Centre Foundation](https://wcw.nl/).
 
